@@ -43,8 +43,12 @@
 ## Target output
 
 ### 1. Journal of all broker activities
-| Timestamp  | Broker ID | Price | Side | Size  | Action           |
-| ---------- | --------- | ----- | ---- | ----- | ---------------- |
-| 9:30:14:35 | 6996      | 2.38  | Ask  | 88000 | New Order        |
-| 9:31:24:15 | 6996      | 2.38  | Ask  | 2000  | Trade Executed   |
-| 9:35:21:05 | 6996      | 2.38  | Ask  | 86000 | Order Pulled out |
+| Timestamp  | Broker ID | Price | Side | Size  | Action         |
+| ---------- | --------- | ----- | ---- | ----- | -------------- |
+| 9:30:14:35 | 6996      | 2.38  | Ask  | 88000 | New Order      |
+| 9:31:24:15 | 6996      | 2.38  | Ask  | 2000  | Trade Executed |
+| 9:35:21:05 | 6996      | 2.38  | Ask  | 86000 | Removed Order  |
+
+
+### 2. Visalization of Broker Activities
+![boker_visalization](res/boker_visalization.png)
