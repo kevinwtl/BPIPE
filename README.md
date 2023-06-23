@@ -10,13 +10,13 @@
 * Queue position at that price level
 * Bid / Offer price
 * **Does not show size**
-* Timestamp (rounded to seconds) when the order was *submited*
+* Timestamp (rounded to seconds, due to Bloomberg Backend Issues) when the order was *submited*
 
 ### 2. MBO (Market By Order)
 
 `'MKTDEPTH_EVENT_TYPE' == 'MARKET_BY_ORDER' and 'EID' == 53714`
 
-* **Noes not show Broker ID**
+* **Does not show Broker ID**
 * Queue position at that price level
 * Bid / Offer price
 * Size
