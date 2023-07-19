@@ -1,11 +1,12 @@
+from datetime import datetime
 import os
 import io
 import base64
 import sys
 import traceback
 
-os.chdir(r"T:\Intern Folder\External Research\2023 Interns\BPIPE")
-sys.path.append(r"T:\Intern Folder\External Research\2023 Interns\BPIPE")
+os.chdir(r"H:\GitHub\BPIPE")
+sys.path.append(r"H:\GitHub\BPIPE")
 
 from dash import Dash, dcc, html, Input, Output, State, dash_table
 import matplotlib
@@ -55,12 +56,12 @@ app.layout = html.Div(
 
 @app.callback(Output(component_id="journal_df_tbl", component_property="data"), Output(component_id="gross_buy_sell_chart", component_property="src"), Input(component_id="btn", component_property="n_clicks"), State(component_id="ticker", component_property="value"), prevent_initial_call=True)
 def update_charts(n_clicks, ticker):
-    obj = OrderBook(ticker)
+    obj = OrderBook(ticker, date = datetime.now().strftime("%Y%m%d"))
     obj.run()
 
     try:  # Price Chart
         with io.BytesIO() as buffer:
-            fig3 = gross_buy_sell(obj.journal_df)
+            fig3 = gross_buy_sell(obj.journal_df, obj.trade_prints)
             plt.savefig(buffer, format="png", bbox_inches="tight")
             plt.close(fig3)
             data2 = base64.b64encode(buffer.getbuffer()).decode("utf8")
@@ -72,4 +73,4 @@ def update_charts(n_clicks, ticker):
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=1234, debug=True, dev_tools_hot_reload=False)
+    app.run(host="0.0.0.0", port=1234, debug=True, dev_tools_hot_reload=True)
