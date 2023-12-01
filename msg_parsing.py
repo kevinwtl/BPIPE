@@ -235,7 +235,10 @@ class OrderBook:
                     if row["Action"] == "New Order" and row["Position"] == 1:
                         active_side = row["Side"]  # Identify whether the active side is 'BID' or 'ASK'
                     elif row["Action"] == "Trade" and pd.isnull(row["Trade Type"]):
-                        self.journal_df.loc[ix, "Trade Type"] = "Active" if row["Side"] == active_side else "Passive"
+                        try:
+                            self.journal_df.loc[ix, "Trade Type"] = "Active" if row["Side"] == active_side else "Passive"
+                        except UnboundLocalError: # error occurs when delay between new order & trade (i.e. they are not in the same ts)
+                            self.journal_df.loc[ix, "Trade Type"] = "Active"
 
     @property
     def unrecorded_trades(self) -> pd.DataFrame:
@@ -262,7 +265,10 @@ class OrderBook:
             if event["MD_TABLE_CMD_RT"] == "REPLACE":
                 df.loc[event[f"MBO_{side}_POSITION_RT"]] = [event["MBO_TIME_RT"], event[f"MBO_{side}_POSITION_RT"], event[f"MBO_{side}_RT"], event[f"MBO_{side}_BROKER_RT"]]
             elif event["MD_TABLE_CMD_RT"] == "REPLACE_CLEAR":
-                df.drop(event[f"MBO_{side}_POSITION_RT"], inplace=True)
+                try:
+                    df.drop(event[f"MBO_{side}_POSITION_RT"], inplace=True)
+                except:
+                    pass
             if side == 'BID':
                 top_bid = df
             elif side == "ASK":

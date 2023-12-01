@@ -1,0 +1,5909 @@
+08-12-2021 08:39:03.3351+08:00 - //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO:
+[//blp/mktdepthdata/ticker/2660 HK Equity?type=MBO CorrelationID = {User: BLPDemoTool.API.CorrelationInfo}]
+08-12-2021 08:39:04.0571+08:00 - [API received time: 08-12-2021 08:39:04.0411+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+SubscriptionStarted = {
+    exceptions[] = {
+    }
+    streamIds[] = {
+        1
+    }
+    receivedFrom = {
+        address = "BA45380:8194"
+    }
+    reason = "Subscriber made a subscription"
+}
+
+08-12-2021 08:39:04.0971+08:00 - [API received time: 08-12-2021 08:39:04.0891+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+SubscriptionStreamsActivated = {
+    streams[] = {
+        streams = {
+            id = "1"
+            endpoint = {
+                address = "BA45380:8194"
+            }
+        }
+    }
+    reason = "Subscriber made a subscription"
+}
+
+08-12-2021 08:39:04.3177+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = TABLE_INITPAINT
+    ID_BB_SEC_NUM_SRC = 730147777830
+    FEED_SOURCE = "HK"
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MD_BOOK_TYPE = MBO-AMD
+    MBO_WINDOW_SIZE = 200
+    MBO_SEQNUM_RT = 2
+    MD_BOOK_SUBTYPE = "CLOB"
+    MD_PRICE_DISPLAY_FORMAT_TYPE_RT = "DECIMAL"
+    MD_PRICE_DISPLAY_MIN_NUM_DECIMALS_RT = 2
+    MD_PRICE_DISPLAY_MAX_NUM_DECIMALS_RT = 3
+    MD_CURRENCY_RT = "HKD"
+    MD_QUOTED_CURRENCY_REALTIME = "HKD"
+    MD_ROUND_LOT_SIZE_RT = 2000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:20:46.4140+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 3
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27999973297119
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31313132353530362020"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T01:20:46.234+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:20:46.4219+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 4
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.35999965667725
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31323438373432362020"
+    MBO_ASK_SIZE_RT = 2000
+    MBO_TIME_RT = 2021-08-12T01:20:46.234+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:20:46.4219+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 5
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.36999988555908
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "38323238303938202020"
+    MBO_ASK_SIZE_RT = 50000
+    MBO_TIME_RT = 2021-08-12T01:20:46.234+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:20:46.4219+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 6
+    MBO_ORDER_ID_RT = "38353939303620202020"
+    MBO_TIME_RT = 2021-08-12T01:20:46.234+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 66000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:20:46.4219+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 7
+    MBO_ORDER_ID_RT = "36393533323138202020"
+    MBO_TIME_RT = 2021-08-12T01:20:46.234+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 20000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:20:46.4219+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 8
+    MBO_ORDER_ID_RT = "32343032353632202020"
+    MBO_TIME_RT = 2021-08-12T01:20:46.234+00:00
+    MBO_BID_POSITION_RT = 3
+    MBO_BID_RT = 1.25
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 50000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:20:46.4219+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 9
+    MBO_ORDER_ID_RT = "39323630303334202020"
+    MBO_TIME_RT = 2021-08-12T01:20:46.234+00:00
+    MBO_BID_POSITION_RT = 4
+    MBO_BID_RT = 1.23999977111816
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 8000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:20:46.4299+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 10
+    MBO_ORDER_ID_RT = "31343938313134202020"
+    MBO_TIME_RT = 2021-08-12T01:20:46.234+00:00
+    MBO_BID_POSITION_RT = 5
+    MBO_BID_RT = 1.23000049591064
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 100000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:20:46.4299+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 11
+    MBO_ORDER_ID_RT = "31343939333934202020"
+    MBO_TIME_RT = 2021-08-12T01:20:46.234+00:00
+    MBO_BID_POSITION_RT = 6
+    MBO_BID_RT = 1.22000026702881
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 100000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:20:46.4299+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 12
+    MBO_ORDER_ID_RT = "31323438373638322020"
+    MBO_TIME_RT = 2021-08-12T01:20:46.234+00:00
+    MBO_BID_POSITION_RT = 7
+    MBO_BID_RT = 1.21000003814697
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 2000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:20:46.4299+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 13
+    MBO_ORDER_ID_RT = "34383035333738202020"
+    MBO_TIME_RT = 2021-08-12T01:20:46.234+00:00
+    MBO_BID_POSITION_RT = 8
+    MBO_BID_RT = 1.19999980926514
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 20000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:20:46.4299+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 14
+    MBO_ORDER_ID_RT = "36383533383930202020"
+    MBO_TIME_RT = 2021-08-12T01:20:46.234+00:00
+    MBO_BID_POSITION_RT = 9
+    MBO_BID_RT = 1.19999980926514
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 2000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:20:46.4299+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 15
+    MBO_ORDER_ID_RT = "39363639383930202020"
+    MBO_TIME_RT = 2021-08-12T01:20:46.234+00:00
+    MBO_BID_POSITION_RT = 10
+    MBO_BID_RT = 1.15999984741211
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 4000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:20:46.4299+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 16
+    MBO_ORDER_ID_RT = "32333439383236202020"
+    MBO_TIME_RT = 2021-08-12T01:20:46.234+00:00
+    MBO_BID_POSITION_RT = 11
+    MBO_BID_RT = 1.14999961853027
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 16000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:20:46.4299+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 17
+    MBO_ORDER_ID_RT = "34353734373232202020"
+    MBO_TIME_RT = 2021-08-12T01:20:46.234+00:00
+    MBO_BID_POSITION_RT = 12
+    MBO_BID_RT = 1.14999961853027
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 16000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:20:46.4299+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 18
+    MBO_ORDER_ID_RT = "34353431313836202020"
+    MBO_TIME_RT = 2021-08-12T01:20:46.234+00:00
+    MBO_BID_POSITION_RT = 13
+    MBO_BID_RT = 1.10999965667725
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 100000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:30:03.2715+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 19
+    MBO_ASK_POSITION_RT = 4
+    MBO_ASK_RT = 1.39999961853027
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31363332373137302020"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T01:30:03.118+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:30:04.1710+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 20
+    MBO_ORDER_ID_RT = "31363639363833342020"
+    MBO_TIME_RT = 2021-08-12T01:30:04.010+00:00
+    MBO_BID_POSITION_RT = 10
+    MBO_BID_RT = 1.19999980926514
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 12000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:30:04.1790+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 21
+    MBO_ORDER_ID_RT = "31363639383337302020"
+    MBO_TIME_RT = 2021-08-12T01:30:04.010+00:00
+    MBO_BID_POSITION_RT = 3
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 20000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:30:05.1710+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 22
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31373138313935342020"
+    MBO_ASK_SIZE_RT = 40000
+    MBO_TIME_RT = 2021-08-12T01:30:05.018+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:30:07.6737+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 23
+    MBO_ORDER_ID_RT = "31383433333238322020"
+    MBO_TIME_RT = 2021-08-12T01:30:07.515+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 24000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:30:15.3668+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 24
+    MBO_ORDER_ID_RT = "32313633343831382020"
+    MBO_TIME_RT = 2021-08-12T01:30:15.213+00:00
+    MBO_BID_POSITION_RT = 16
+    MBO_BID_RT = 1.11999988555908
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 20000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:30:16.3610+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 25
+    MBO_ASK_POSITION_RT = 4
+    MBO_ASK_RT = 1.35999965667725
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32323038343836362020"
+    MBO_ASK_SIZE_RT = 30000
+    MBO_TIME_RT = 2021-08-12T01:30:16.199+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:30:36.6103+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 26
+    MBO_ORDER_ID_RT = "31323438373638322020"
+    MBO_TIME_RT = 2021-08-12T01:30:36.454+00:00
+    MBO_BID_POSITION_RT = 9
+    MBO_BID_RT = 1.21000003814697
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 2000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:30:36.7109+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 27
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.35999965667725
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31323438373432362020"
+    MBO_ASK_SIZE_RT = 2000
+    MBO_TIME_RT = 2021-08-12T01:30:36.554+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:31:27.4915+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 28
+    MBO_ORDER_ID_RT = "35373235393236362020"
+    MBO_TIME_RT = 2021-08-12T01:31:27.338+00:00
+    MBO_BID_POSITION_RT = 12
+    MBO_BID_RT = 1.19999980926514
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 20000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:31:42.8517+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 29
+    MBO_ORDER_ID_RT = "36373733353239382020"
+    MBO_TIME_RT = 2021-08-12T01:31:42.699+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 10000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.5897+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 30
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27999973297119
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31313132353530362020"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T01:35:01.424+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.5927+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 31
+    MBO_ORDER_ID_RT = "36373733353239382020"
+    MBO_TIME_RT = 2021-08-12T01:35:01.425+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 10000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.5927+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 32
+    MBO_ORDER_ID_RT = "31363232383432393020"
+    MBO_TIME_RT = 2021-08-12T01:35:01.425+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 48000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.5927+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 33
+    MBO_ORDER_ID_RT = "31363232383432393020"
+    MBO_TIME_RT = 2021-08-12T01:35:01.426+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 26000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.5947+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 34
+    MBO_ORDER_ID_RT = "31363232383432393020"
+    MBO_TIME_RT = 2021-08-12T01:35:01.426+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 26000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.5947+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 35
+    MBO_ORDER_ID_RT = "31363232383638353020"
+    MBO_TIME_RT = 2021-08-12T01:35:01.426+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 48000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.5947+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 36
+    MBO_ORDER_ID_RT = "31363232383638353020"
+    MBO_TIME_RT = 2021-08-12T01:35:01.427+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 48000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.5947+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 37
+    MBO_ORDER_ID_RT = "31363232383838393820"
+    MBO_TIME_RT = 2021-08-12T01:35:01.428+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 48000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.7114+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 38
+    MBO_ASK_POSITION_RT = 5
+    MBO_ASK_RT = 1.52999973297119
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31363233383536363620"
+    MBO_ASK_SIZE_RT = 2000
+    MBO_TIME_RT = 2021-08-12T01:35:01.553+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.7134+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 39
+    MBO_ORDER_ID_RT = "31363233383539323220"
+    MBO_TIME_RT = 2021-08-12T01:35:01.554+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.28999996185303
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 34000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.7134+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 40
+    MBO_ORDER_ID_RT = "31363233383539323220"
+    MBO_TIME_RT = 2021-08-12T01:35:01.554+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.28999996185303
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 34000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.7134+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 41
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31373138313935342020"
+    MBO_ASK_SIZE_RT = 6000
+    MBO_TIME_RT = 2021-08-12T01:35:01.554+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.7134+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 42
+    MBO_ORDER_ID_RT = "31363232383838393820"
+    MBO_TIME_RT = 2021-08-12T01:35:01.554+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 32000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.7164+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 43
+    MBO_ORDER_ID_RT = "31363233383734353820"
+    MBO_TIME_RT = 2021-08-12T01:35:01.559+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.28999996185303
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 6000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.7174+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 44
+    MBO_ORDER_ID_RT = "31363233383734353820"
+    MBO_TIME_RT = 2021-08-12T01:35:01.559+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.28999996185303
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 6000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.7184+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 45
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31373138313935342020"
+    MBO_ASK_SIZE_RT = 6000
+    MBO_TIME_RT = 2021-08-12T01:35:01.559+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.7184+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 46
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.35000038146973
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31363233383737313420"
+    MBO_ASK_SIZE_RT = 6000
+    MBO_TIME_RT = 2021-08-12T01:35:01.560+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.8092+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 47
+    MBO_ASK_POSITION_RT = 5
+    MBO_ASK_RT = 1.5
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31363234313536313820"
+    MBO_ASK_SIZE_RT = 14000
+    MBO_TIME_RT = 2021-08-12T01:35:01.647+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:01.8191+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 48
+    MBO_ASK_POSITION_RT = 7
+    MBO_ASK_RT = 1.5600004196167
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31363234313932303220"
+    MBO_ASK_SIZE_RT = 2000
+    MBO_TIME_RT = 2021-08-12T01:35:01.662+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:02.8574+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 49
+    MBO_ORDER_ID_RT = "31363232383838393820"
+    MBO_TIME_RT = 2021-08-12T01:35:02.699+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 32000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:02.8583+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 50
+    MBO_ORDER_ID_RT = "31363330333636373420"
+    MBO_TIME_RT = 2021-08-12T01:35:02.699+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.27999973297119
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 48000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:02.8583+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 51
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.35999965667725
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32323038343836362020"
+    MBO_ASK_SIZE_RT = 30000
+    MBO_TIME_RT = 2021-08-12T01:35:02.699+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:02.8593+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 52
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.35000038146973
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31363330333639333020"
+    MBO_ASK_SIZE_RT = 18000
+    MBO_TIME_RT = 2021-08-12T01:35:02.699+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:02.8593+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 53
+    MBO_ORDER_ID_RT = "31363330333636373420"
+    MBO_TIME_RT = 2021-08-12T01:35:02.700+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.27999973297119
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 48000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:02.8603+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 54
+    MBO_ORDER_ID_RT = "31363330333734343220"
+    MBO_TIME_RT = 2021-08-12T01:35:02.700+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 48000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:02.8613+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 55
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.35000038146973
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31363330333639333020"
+    MBO_ASK_SIZE_RT = 18000
+    MBO_TIME_RT = 2021-08-12T01:35:02.700+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:02.8613+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 56
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.35999965667725
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31363330333736393820"
+    MBO_ASK_SIZE_RT = 28000
+    MBO_TIME_RT = 2021-08-12T01:35:02.700+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:02.8613+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 57
+    MBO_ORDER_ID_RT = "31363330333734343220"
+    MBO_TIME_RT = 2021-08-12T01:35:02.700+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 48000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:02.8623+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 58
+    MBO_ORDER_ID_RT = "31363330333832313020"
+    MBO_TIME_RT = 2021-08-12T01:35:02.700+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.27999973297119
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 48000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:03.1177+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 59
+    MBO_ORDER_ID_RT = "31363331383737313420"
+    MBO_TIME_RT = 2021-08-12T01:35:02.959+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.27999973297119
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 36000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:04.0240+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 60
+    MBO_ASK_POSITION_RT = 6
+    MBO_ASK_RT = 1.5
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31363336313234313820"
+    MBO_ASK_SIZE_RT = 20000
+    MBO_TIME_RT = 2021-08-12T01:35:03.873+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:35:04.0320+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 61
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.35999965667725
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31363330333736393820"
+    MBO_ASK_SIZE_RT = 28000
+    MBO_TIME_RT = 2021-08-12T01:35:03.874+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:37:47.2366+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 62
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.39999961853027
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31363332373137302020"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T01:37:47.077+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:37:47.2366+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 63
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.43000030517578
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32343331353434333420"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T01:37:47.077+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:37:53.9735+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 64
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.43000030517578
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32343331353434333420"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T01:37:53.822+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:37:53.9735+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 65
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.44000053405762
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32343635343539323220"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T01:37:53.822+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:37:53.9735+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 66
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.43000030517578
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32343635343631373820"
+    MBO_ASK_SIZE_RT = 16000
+    MBO_TIME_RT = 2021-08-12T01:37:53.823+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:40:39.5483+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 67
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.42000007629395
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "33303534363039393420"
+    MBO_ASK_SIZE_RT = 30000
+    MBO_TIME_RT = 2021-08-12T01:40:39.388+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:40:39.5492+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 68
+    MBO_ASK_POSITION_RT = 4
+    MBO_ASK_RT = 1.43000030517578
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32343635343631373820"
+    MBO_ASK_SIZE_RT = 16000
+    MBO_TIME_RT = 2021-08-12T01:40:39.389+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:40:39.5502+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 69
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.35999965667725
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "33303534363137363220"
+    MBO_ASK_SIZE_RT = 22000
+    MBO_TIME_RT = 2021-08-12T01:40:39.389+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:40:43.2858+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 70
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "33303732373139333820"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T01:40:43.127+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:40:43.2858+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 71
+    MBO_ORDER_ID_RT = "33303732383131353420"
+    MBO_TIME_RT = 2021-08-12T01:40:43.129+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.28999996185303
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 4000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:40:43.2858+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 72
+    MBO_ORDER_ID_RT = "33303732383131353420"
+    MBO_TIME_RT = 2021-08-12T01:40:43.129+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.28999996185303
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 4000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:40:43.2858+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 73
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "33303732373139333820"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T01:40:43.129+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:40:43.2858+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 74
+    MBO_ORDER_ID_RT = "33303732383339373020"
+    MBO_TIME_RT = 2021-08-12T01:40:43.132+00:00
+    MBO_BID_POSITION_RT = 3
+    MBO_BID_RT = 1.27999973297119
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 18000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:40:43.2936+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 75
+    MBO_ORDER_ID_RT = "33303732383339373020"
+    MBO_TIME_RT = 2021-08-12T01:40:43.134+00:00
+    MBO_BID_POSITION_RT = 3
+    MBO_BID_RT = 1.27999973297119
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 18000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:43:14.1144+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 76
+    MBO_ORDER_ID_RT = "33363932393335373020"
+    MBO_TIME_RT = 2021-08-12T01:43:13.958+00:00
+    MBO_BID_POSITION_RT = 8
+    MBO_BID_RT = 1.25
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 20000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:43:24.7548+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 77
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.34000015258789
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "33373234383333333020"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T01:43:24.595+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:43:37.5199+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 78
+    MBO_ASK_POSITION_RT = 4
+    MBO_ASK_RT = 1.35999965667725
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "33373538313338393020"
+    MBO_ASK_SIZE_RT = 20000
+    MBO_TIME_RT = 2021-08-12T01:43:37.364+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:43:37.5199+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 79
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.35999965667725
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "33303534363137363220"
+    MBO_ASK_SIZE_RT = 22000
+    MBO_TIME_RT = 2021-08-12T01:43:37.365+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:43:37.5199+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 80
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.35000038146973
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "33373538313434303220"
+    MBO_ASK_SIZE_RT = 20000
+    MBO_TIME_RT = 2021-08-12T01:43:37.365+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:43:46.8544+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 81
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.35000038146973
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "33373538313434303220"
+    MBO_ASK_SIZE_RT = 20000
+    MBO_TIME_RT = 2021-08-12T01:43:46.699+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:43:46.8544+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 82
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.34000015258789
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "33373831343334393020"
+    MBO_ASK_SIZE_RT = 18000
+    MBO_TIME_RT = 2021-08-12T01:43:46.699+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:43:46.8544+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 83
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.35000038146973
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31363233383737313420"
+    MBO_ASK_SIZE_RT = 6000
+    MBO_TIME_RT = 2021-08-12T01:43:46.699+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:43:46.8544+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 84
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.32999992370605
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "33373831343337343620"
+    MBO_ASK_SIZE_RT = 2000
+    MBO_TIME_RT = 2021-08-12T01:43:46.699+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:44:14.4825+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 85
+    MBO_ASK_POSITION_RT = 4
+    MBO_ASK_RT = 1.34000015258789
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "33383933323831333020"
+    MBO_ASK_SIZE_RT = 20000
+    MBO_TIME_RT = 2021-08-12T01:44:14.323+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:44:14.4825+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 86
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.34000015258789
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "33373831343334393020"
+    MBO_ASK_SIZE_RT = 18000
+    MBO_TIME_RT = 2021-08-12T01:44:14.324+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:44:14.4825+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 87
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.32999992370605
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "33383933323833383620"
+    MBO_ASK_SIZE_RT = 22000
+    MBO_TIME_RT = 2021-08-12T01:44:14.324+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:45:30.4360+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 88
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.30000019073486
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "34313436383339303620"
+    MBO_ASK_SIZE_RT = 50000
+    MBO_TIME_RT = 2021-08-12T01:45:30.280+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:45:30.4360+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 89
+    MBO_ORDER_ID_RT = "31363330333832313020"
+    MBO_TIME_RT = 2021-08-12T01:45:30.281+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.27999973297119
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 48000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:45:30.4440+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 90
+    MBO_ORDER_ID_RT = "34313436383431363220"
+    MBO_TIME_RT = 2021-08-12T01:45:30.281+00:00
+    MBO_BID_POSITION_RT = 3
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 46000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:48:27.2063+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 91
+    MBO_ASK_POSITION_RT = 9
+    MBO_ASK_RT = 1.43000030517578
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "34373438373639333020"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T01:48:27.046+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:48:27.2063+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 92
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.32999992370605
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "33383933323833383620"
+    MBO_ASK_SIZE_RT = 22000
+    MBO_TIME_RT = 2021-08-12T01:48:27.047+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:48:27.2063+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 93
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.32999992370605
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "34373438373731383620"
+    MBO_ASK_SIZE_RT = 30000
+    MBO_TIME_RT = 2021-08-12T01:48:27.047+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:54:51.7137+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 94
+    MBO_ASK_POSITION_RT = 6
+    MBO_ASK_RT = 1.34000015258789
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "35383139383332333420"
+    MBO_ASK_SIZE_RT = 20000
+    MBO_TIME_RT = 2021-08-12T01:54:51.550+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 09:57:11.6678+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 95
+    MBO_ORDER_ID_RT = "36313930343839363220"
+    MBO_TIME_RT = 2021-08-12T01:57:11.508+00:00
+    MBO_BID_POSITION_RT = 4
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 20000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:00:36.0893+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 96
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.30000019073486
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "36353939383837333820"
+    MBO_ASK_SIZE_RT = 24000
+    MBO_TIME_RT = 2021-08-12T02:00:35.931+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:01:54.0407+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 97
+    MBO_ASK_POSITION_RT = 5
+    MBO_ASK_RT = 1.32999992370605
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "36383031363132383220"
+    MBO_ASK_SIZE_RT = 56000
+    MBO_TIME_RT = 2021-08-12T02:01:53.856+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:04:44.1506+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 98
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27999973297119
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "37323336343837373020"
+    MBO_ASK_SIZE_RT = 16000
+    MBO_TIME_RT = 2021-08-12T02:04:43.987+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:04:44.1506+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 99
+    MBO_ORDER_ID_RT = "31363331383737313420"
+    MBO_TIME_RT = 2021-08-12T02:04:43.987+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.27999973297119
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 20000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:04:44.1506+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 100
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27999973297119
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "37323336343837373020"
+    MBO_ASK_SIZE_RT = 16000
+    MBO_TIME_RT = 2021-08-12T02:04:43.987+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:04:44.2066+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 101
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "37323336383438363620"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T02:04:44.046+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:04:47.4004+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 102
+    MBO_ORDER_ID_RT = "31363331383737313420"
+    MBO_TIME_RT = 2021-08-12T02:04:47.233+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.27999973297119
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 20000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:04:47.4004+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 103
+    MBO_ASK_POSITION_RT = 5
+    MBO_ASK_RT = 1.32999992370605
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "34373438373731383620"
+    MBO_ASK_SIZE_RT = 30000
+    MBO_TIME_RT = 2021-08-12T02:04:47.234+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:04:47.4004+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 104
+    MBO_ASK_POSITION_RT = 4
+    MBO_ASK_RT = 1.31999969482422
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "37323539363337373820"
+    MBO_ASK_SIZE_RT = 46000
+    MBO_TIME_RT = 2021-08-12T02:04:47.234+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:04:49.2564+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 105
+    MBO_ORDER_ID_RT = "37323636313031373820"
+    MBO_TIME_RT = 2021-08-12T02:04:49.095+00:00
+    MBO_BID_POSITION_RT = 4
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 2000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:17:53.2103+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 106
+    MBO_ORDER_ID_RT = "39333732383536333420"
+    MBO_TIME_RT = 2021-08-12T02:17:53.047+00:00
+    MBO_BID_POSITION_RT = 11
+    MBO_BID_RT = 1.23999977111816
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 10000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:22:08.1786+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 107
+    MBO_ORDER_ID_RT = "39333732383536333420"
+    MBO_TIME_RT = 2021-08-12T02:22:08.013+00:00
+    MBO_BID_POSITION_RT = 11
+    MBO_BID_RT = 1.23999977111816
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 10000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:48:14.2581+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 108
+    MBO_ASK_POSITION_RT = 4
+    MBO_ASK_RT = 1.30000019073486
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31333139323534323734"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T02:48:14.079+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:48:37.6182+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 109
+    MBO_ASK_POSITION_RT = 8
+    MBO_ASK_RT = 1.32999992370605
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31333233393235353036"
+    MBO_ASK_SIZE_RT = 30000
+    MBO_TIME_RT = 2021-08-12T02:48:37.441+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:49:00.4709+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 110
+    MBO_ASK_POSITION_RT = 14
+    MBO_ASK_RT = 1.36999988555908
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31333238353132373730"
+    MBO_ASK_SIZE_RT = 40000
+    MBO_TIME_RT = 2021-08-12T02:49:00.291+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:54:23.4532+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 111
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31333832373433353534"
+    MBO_ASK_SIZE_RT = 30000
+    MBO_TIME_RT = 2021-08-12T02:54:23.270+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:54:23.4532+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 112
+    MBO_ORDER_ID_RT = "31383433333238322020"
+    MBO_TIME_RT = 2021-08-12T02:54:23.270+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 24000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:54:23.4532+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 113
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31333832373433353534"
+    MBO_ASK_SIZE_RT = 6000
+    MBO_TIME_RT = 2021-08-12T02:54:23.270+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:54:23.4532+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 114
+    MBO_ORDER_ID_RT = "34313436383431363220"
+    MBO_TIME_RT = 2021-08-12T02:54:23.270+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 40000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:54:23.4532+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 115
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31333832373433353534"
+    MBO_ASK_SIZE_RT = 6000
+    MBO_TIME_RT = 2021-08-12T02:54:23.270+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:54:33.4480+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 116
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31333835313933343734"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T02:54:33.272+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 10:55:05.1995+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 117
+    MBO_ORDER_ID_RT = "33363932393335373020"
+    MBO_TIME_RT = 2021-08-12T02:55:05.022+00:00
+    MBO_BID_POSITION_RT = 8
+    MBO_BID_RT = 1.25
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 10000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:00:50.4766+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 118
+    MBO_ORDER_ID_RT = "34313436383431363220"
+    MBO_TIME_RT = 2021-08-12T03:00:50.300+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 40000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:00:50.4766+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 119
+    MBO_ASK_POSITION_RT = 6
+    MBO_ASK_RT = 1.31999969482422
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "37323539363337373820"
+    MBO_ASK_SIZE_RT = 46000
+    MBO_TIME_RT = 2021-08-12T03:00:50.300+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:02:03.7566+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 120
+    MBO_ASK_POSITION_RT = 6
+    MBO_ASK_RT = 1.31999969482422
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31343631373838363734"
+    MBO_ASK_SIZE_RT = 46000
+    MBO_TIME_RT = 2021-08-12T03:02:03.574+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:04:54.5027+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 121
+    MBO_ORDER_ID_RT = "37323636313031373820"
+    MBO_TIME_RT = 2021-08-12T03:04:54.317+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 2000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:07:41.3942+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 122
+    MBO_ORDER_ID_RT = "31353135313033323334"
+    MBO_TIME_RT = 2021-08-12T03:07:41.214+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 2000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:07:41.4022+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 123
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31333835313933343734"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T03:07:41.217+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:07:41.4022+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 124
+    MBO_ORDER_ID_RT = "31353135313034303032"
+    MBO_TIME_RT = 2021-08-12T03:07:41.218+00:00
+    MBO_BID_POSITION_RT = 3
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 20000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:10:26.3072+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 125
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31353431353237323938"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T03:10:26.128+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:10:26.3072+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 126
+    MBO_ORDER_ID_RT = "31353135313034303032"
+    MBO_TIME_RT = 2021-08-12T03:10:26.128+00:00
+    MBO_BID_POSITION_RT = 3
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 12000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:11:44.2889+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 127
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31353530303834333534"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T03:11:44.105+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:11:44.2889+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 128
+    MBO_ORDER_ID_RT = "36313930343839363220"
+    MBO_TIME_RT = 2021-08-12T03:11:44.105+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 10000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:11:44.2889+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 129
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31353530303834333534"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T03:11:44.105+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:11:44.2889+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 130
+    MBO_ASK_POSITION_RT = 7
+    MBO_ASK_RT = 1.32999992370605
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "33373831343337343620"
+    MBO_ASK_SIZE_RT = 2000
+    MBO_TIME_RT = 2021-08-12T03:11:44.106+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:11:44.2889+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 131
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31353530303834363130"
+    MBO_ASK_SIZE_RT = 6000
+    MBO_TIME_RT = 2021-08-12T03:11:44.106+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:11:44.2889+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 132
+    MBO_ORDER_ID_RT = "31353135313034303032"
+    MBO_TIME_RT = 2021-08-12T03:11:44.106+00:00
+    MBO_BID_POSITION_RT = 3
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 12000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:20:39.9158+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 133
+    MBO_ASK_POSITION_RT = 4
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31363135323238313632"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T03:20:39.730+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:20:39.9158+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 134
+    MBO_ASK_POSITION_RT = 8
+    MBO_ASK_RT = 1.31999969482422
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31343631373838363734"
+    MBO_ASK_SIZE_RT = 46000
+    MBO_TIME_RT = 2021-08-12T03:20:39.731+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:29:58.5659+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 135
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31363734313536323930"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T03:29:58.373+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:29:58.5669+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 136
+    MBO_ORDER_ID_RT = "36313930343839363220"
+    MBO_TIME_RT = 2021-08-12T03:29:58.373+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 10000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:29:58.5669+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 137
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31363734313536323930"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T03:29:58.373+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:35:32.8674+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 138
+    MBO_ORDER_ID_RT = "31363938363830303636"
+    MBO_TIME_RT = 2021-08-12T03:35:32.679+00:00
+    MBO_BID_POSITION_RT = 7
+    MBO_BID_RT = 1.25
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 50000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:38:38.6910+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 139
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27999973297119
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31373134313538303832"
+    MBO_ASK_SIZE_RT = 2000
+    MBO_TIME_RT = 2021-08-12T03:38:38.496+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:38:38.6910+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 140
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31353431353237323938"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T03:38:38.498+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:38:45.6513+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 141
+    MBO_ASK_POSITION_RT = 4
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31363135323238313632"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T03:38:45.456+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:38:45.6513+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 142
+    MBO_ASK_POSITION_RT = 7
+    MBO_ASK_RT = 1.31999969482422
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31373134343333373934"
+    MBO_ASK_SIZE_RT = 46000
+    MBO_TIME_RT = 2021-08-12T03:38:45.456+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:43:50.3995+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 143
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31373332363039373934"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T03:43:50.204+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:43:50.3995+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 144
+    MBO_ORDER_ID_RT = "31353135313033323334"
+    MBO_TIME_RT = 2021-08-12T03:43:50.204+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 2000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:43:50.3995+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 145
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31373332363039373934"
+    MBO_ASK_SIZE_RT = 8000
+    MBO_TIME_RT = 2021-08-12T03:43:50.204+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:43:50.3995+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 146
+    MBO_ASK_POSITION_RT = 8
+    MBO_ASK_RT = 1.31999969482422
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31373134343333373934"
+    MBO_ASK_SIZE_RT = 46000
+    MBO_TIME_RT = 2021-08-12T03:43:50.204+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 11:48:09.8970+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 147
+    MBO_ORDER_ID_RT = "31373438373839353036"
+    MBO_TIME_RT = 2021-08-12T03:48:09.704+00:00
+    MBO_BID_POSITION_RT = 8
+    MBO_BID_RT = 1.23999977111816
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 4000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 12:44:02.2972+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 148
+    MBO_ASK_POSITION_RT = 4
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31353530303834363130"
+    MBO_ASK_SIZE_RT = 6000
+    MBO_TIME_RT = 2021-08-12T04:44:02.077+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 12:59:46.1842+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 149
+    MBO_ASK_POSITION_RT = 12
+    MBO_ASK_RT = 1.35999965667725
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "33373538313338393020"
+    MBO_ASK_SIZE_RT = 20000
+    MBO_TIME_RT = 2021-08-12T04:59:45.982+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:00:05.7751+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 150
+    MBO_ASK_POSITION_RT = 7
+    MBO_ASK_RT = 1.31999969482422
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31373936323839303236"
+    MBO_ASK_SIZE_RT = 46000
+    MBO_TIME_RT = 2021-08-12T05:00:05.574+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:00:06.9658+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 151
+    MBO_ORDER_ID_RT = "31373936373332313632"
+    MBO_TIME_RT = 2021-08-12T05:00:06.764+00:00
+    MBO_BID_POSITION_RT = 9
+    MBO_BID_RT = 1.23999977111816
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 76000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:18:01.1846+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 152
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31393239353236323734"
+    MBO_ASK_SIZE_RT = 100000
+    MBO_TIME_RT = 2021-08-12T05:18:01.000+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:18:01.1846+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 153
+    MBO_ORDER_ID_RT = "38353939303620202020"
+    MBO_TIME_RT = 2021-08-12T05:18:01.000+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 66000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:18:01.1846+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 154
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31393239353236323734"
+    MBO_ASK_SIZE_RT = 34000
+    MBO_TIME_RT = 2021-08-12T05:18:01.000+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:18:01.1846+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 155
+    MBO_ORDER_ID_RT = "36393533323138202020"
+    MBO_TIME_RT = 2021-08-12T05:18:01.000+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 20000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:18:01.1856+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 156
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31393239353236323734"
+    MBO_ASK_SIZE_RT = 14000
+    MBO_TIME_RT = 2021-08-12T05:18:01.000+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:18:01.1856+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 157
+    MBO_ORDER_ID_RT = "31363639383337302020"
+    MBO_TIME_RT = 2021-08-12T05:18:01.000+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 6000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:18:01.1856+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 158
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31393239353236323734"
+    MBO_ASK_SIZE_RT = 14000
+    MBO_TIME_RT = 2021-08-12T05:18:01.000+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:18:01.1856+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 159
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31393239353236353330"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T05:18:01.001+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:18:01.1856+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 160
+    MBO_ORDER_ID_RT = "31363639383337302020"
+    MBO_TIME_RT = 2021-08-12T05:18:01.001+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 2000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:18:01.1856+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 161
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31393239353236353330"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T05:18:01.001+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:18:01.1856+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 162
+    MBO_ASK_POSITION_RT = 7
+    MBO_ASK_RT = 1.31999969482422
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31373936323839303236"
+    MBO_ASK_SIZE_RT = 46000
+    MBO_TIME_RT = 2021-08-12T05:18:01.001+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:18:01.1866+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 163
+    MBO_ASK_POSITION_RT = 4
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31393239353236373836"
+    MBO_ASK_SIZE_RT = 22000
+    MBO_TIME_RT = 2021-08-12T05:18:01.001+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:21:24.4574+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 164
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31373332363039373934"
+    MBO_ASK_SIZE_RT = 8000
+    MBO_TIME_RT = 2021-08-12T05:21:24.277+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:21:24.4584+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 165
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31393532323035383236"
+    MBO_ASK_SIZE_RT = 8000
+    MBO_TIME_RT = 2021-08-12T05:21:24.277+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:21:24.4594+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 166
+    MBO_ORDER_ID_RT = "31363639383337302020"
+    MBO_TIME_RT = 2021-08-12T05:21:24.277+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 2000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:21:24.4594+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 167
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31393532323035383236"
+    MBO_ASK_SIZE_RT = 6000
+    MBO_TIME_RT = 2021-08-12T05:21:24.277+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:21:24.4594+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 168
+    MBO_ORDER_ID_RT = "31393532323036303832"
+    MBO_TIME_RT = 2021-08-12T05:21:24.277+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 42000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:21:24.4604+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 169
+    MBO_ORDER_ID_RT = "31393532323036303832"
+    MBO_TIME_RT = 2021-08-12T05:21:24.277+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 36000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:21:24.4604+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 170
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31393532323035383236"
+    MBO_ASK_SIZE_RT = 6000
+    MBO_TIME_RT = 2021-08-12T05:21:24.277+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:21:24.4604+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 171
+    MBO_ORDER_ID_RT = "31393532323036303832"
+    MBO_TIME_RT = 2021-08-12T05:21:24.278+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 36000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:21:25.4888+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 172
+    MBO_ORDER_ID_RT = "31393532333230303032"
+    MBO_TIME_RT = 2021-08-12T05:21:25.307+00:00
+    MBO_BID_POSITION_RT = 4
+    MBO_BID_RT = 1.25
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 10000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:21:27.0071+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 173
+    MBO_ORDER_ID_RT = "31393532353430343138"
+    MBO_TIME_RT = 2021-08-12T05:21:26.827+00:00
+    MBO_BID_POSITION_RT = 5
+    MBO_BID_RT = 1.25
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 14000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:21:42.2540+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 174
+    MBO_ORDER_ID_RT = "31393534303931373738"
+    MBO_TIME_RT = 2021-08-12T05:21:42.074+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 36000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:21:49.6446+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 175
+    MBO_ORDER_ID_RT = "31393532353430343138"
+    MBO_TIME_RT = 2021-08-12T05:21:49.464+00:00
+    MBO_BID_POSITION_RT = 6
+    MBO_BID_RT = 1.25
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 14000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:22:22.7784+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 176
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.27999973297119
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31393539313538323734"
+    MBO_ASK_SIZE_RT = 206000
+    MBO_TIME_RT = 2021-08-12T05:22:22.596+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:22:22.7784+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 177
+    MBO_ORDER_ID_RT = "31393534303931373738"
+    MBO_TIME_RT = 2021-08-12T05:22:22.597+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 36000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:22:22.7791+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 178
+    MBO_ASK_POSITION_RT = 4
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31393239353236373836"
+    MBO_ASK_SIZE_RT = 22000
+    MBO_TIME_RT = 2021-08-12T05:22:22.597+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:22:22.8318+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 179
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31393539313731333330"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T05:22:22.652+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:30:31.7883+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 180
+    MBO_ORDER_ID_RT = "32303034363036343636"
+    MBO_TIME_RT = 2021-08-12T05:30:31.615+00:00
+    MBO_BID_POSITION_RT = 5
+    MBO_BID_RT = 1.25
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 10000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:30:31.9409+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 181
+    MBO_ORDER_ID_RT = "31373438373839353036"
+    MBO_TIME_RT = 2021-08-12T05:30:31.767+00:00
+    MBO_BID_POSITION_RT = 7
+    MBO_BID_RT = 1.23999977111816
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 4000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:39:57.6890+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 182
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32303731323534303138"
+    MBO_ASK_SIZE_RT = 2000
+    MBO_TIME_RT = 2021-08-12T05:39:57.521+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:40:42.3365+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 183
+    MBO_ORDER_ID_RT = "32303738383936313330"
+    MBO_TIME_RT = 2021-08-12T05:40:42.169+00:00
+    MBO_BID_POSITION_RT = 9
+    MBO_BID_RT = 1.23000049591064
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 50000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:45:17.1848+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 184
+    MBO_ORDER_ID_RT = "39323630303334202020"
+    MBO_TIME_RT = 2021-08-12T05:45:17.021+00:00
+    MBO_BID_POSITION_RT = 6
+    MBO_BID_RT = 1.23999977111816
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 8000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:45:17.1881+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 185
+    MBO_ORDER_ID_RT = "32313135313336373730"
+    MBO_TIME_RT = 2021-08-12T05:45:17.024+00:00
+    MBO_BID_POSITION_RT = 10
+    MBO_BID_RT = 1.21000003814697
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 8000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:46:32.7619+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 186
+    MBO_ORDER_ID_RT = "32313233323438363432"
+    MBO_TIME_RT = 2021-08-12T05:46:32.600+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 10000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:51:30.9752+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 187
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32313537363638363130"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T05:51:30.815+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:51:30.9752+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 188
+    MBO_ORDER_ID_RT = "32313233323438363432"
+    MBO_TIME_RT = 2021-08-12T05:51:30.815+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 10000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:51:30.9762+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 189
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32313537363638363130"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T05:51:30.815+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:56:16.2275+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 190
+    MBO_ORDER_ID_RT = "32313930363430363432"
+    MBO_TIME_RT = 2021-08-12T05:56:16.069+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 2000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:58:21.0319+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 191
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32323033333637313730"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T05:58:20.876+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:58:21.0329+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 192
+    MBO_ORDER_ID_RT = "32313930363430363432"
+    MBO_TIME_RT = 2021-08-12T05:58:20.876+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 2000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:58:21.0339+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 193
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32323033333637313730"
+    MBO_ASK_SIZE_RT = 8000
+    MBO_TIME_RT = 2021-08-12T05:58:20.876+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 13:58:21.5036+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 194
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32303731323534303138"
+    MBO_ASK_SIZE_RT = 2000
+    MBO_TIME_RT = 2021-08-12T05:58:21.347+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:07:31.0157+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 195
+    MBO_ORDER_ID_RT = "32323535313531313036"
+    MBO_TIME_RT = 2021-08-12T06:07:30.856+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 20000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:07:31.0157+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 196
+    MBO_ORDER_ID_RT = "32323535313531313036"
+    MBO_TIME_RT = 2021-08-12T06:07:30.856+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 12000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:07:31.0165+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 197
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32323033333637313730"
+    MBO_ASK_SIZE_RT = 8000
+    MBO_TIME_RT = 2021-08-12T06:07:30.856+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:09:34.8524+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 198
+    MBO_ORDER_ID_RT = "32323639313637333632"
+    MBO_TIME_RT = 2021-08-12T06:09:34.703+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 4000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:16:32.9634+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 199
+    MBO_ORDER_ID_RT = "32333039313937333134"
+    MBO_TIME_RT = 2021-08-12T06:16:32.817+00:00
+    MBO_BID_POSITION_RT = 3
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 2000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:24:02.2845+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 200
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32333531393934363236"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T06:24:02.141+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:24:02.2855+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 201
+    MBO_ORDER_ID_RT = "32323535313531313036"
+    MBO_TIME_RT = 2021-08-12T06:24:02.141+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 2000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:24:02.2855+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 202
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32333531393934363236"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T06:24:02.141+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:28:56.2658+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 203
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.27999973297119
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31373134313538303832"
+    MBO_ASK_SIZE_RT = 2000
+    MBO_TIME_RT = 2021-08-12T06:28:56.125+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:33:10.0355+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 204
+    MBO_ORDER_ID_RT = "31393532333230303032"
+    MBO_TIME_RT = 2021-08-12T06:33:09.895+00:00
+    MBO_BID_POSITION_RT = 7
+    MBO_BID_RT = 1.25
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 10000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:33:10.0362+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 205
+    MBO_ORDER_ID_RT = "32343030373435393836"
+    MBO_TIME_RT = 2021-08-12T06:33:09.895+00:00
+    MBO_BID_POSITION_RT = 4
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 10000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:37:35.9419+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 206
+    MBO_ORDER_ID_RT = "32343232393539363138"
+    MBO_TIME_RT = 2021-08-12T06:37:35.802+00:00
+    MBO_BID_POSITION_RT = 9
+    MBO_BID_RT = 1.25
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 8000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:39:33.1443+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 207
+    MBO_ASK_POSITION_RT = 19
+    MBO_ASK_RT = 1.51000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32343333383132393934"
+    MBO_ASK_SIZE_RT = 6000
+    MBO_TIME_RT = 2021-08-12T06:39:33.005+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:50:29.1100+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 208
+    MBO_ORDER_ID_RT = "32343232393539363138"
+    MBO_TIME_RT = 2021-08-12T06:50:28.974+00:00
+    MBO_BID_POSITION_RT = 9
+    MBO_BID_RT = 1.25
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 8000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:50:29.1100+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 209
+    MBO_ORDER_ID_RT = "32343935373533393836"
+    MBO_TIME_RT = 2021-08-12T06:50:28.974+00:00
+    MBO_BID_POSITION_RT = 5
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 8000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:51:49.0009+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 210
+    MBO_ORDER_ID_RT = "32353034363633303432"
+    MBO_TIME_RT = 2021-08-12T06:51:48.866+00:00
+    MBO_BID_POSITION_RT = 6
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 190000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:51:57.3141+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 211
+    MBO_ORDER_ID_RT = "32343935373533393836"
+    MBO_TIME_RT = 2021-08-12T06:51:57.178+00:00
+    MBO_BID_POSITION_RT = 5
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 8000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:51:57.3151+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 212
+    MBO_ORDER_ID_RT = "32353035333330393436"
+    MBO_TIME_RT = 2021-08-12T06:51:57.178+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 8000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:51:57.3151+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 213
+    MBO_ORDER_ID_RT = "32353035333330393436"
+    MBO_TIME_RT = 2021-08-12T06:51:57.178+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 4000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:51:57.3151+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 214
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "31393539313731333330"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T06:51:57.178+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 14:51:57.3690+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 215
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "37323336383438363620"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T06:51:57.234+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:02:51.6135+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 216
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32353733343535313036"
+    MBO_ASK_SIZE_RT = 10000
+    MBO_TIME_RT = 2021-08-12T07:02:51.481+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:02:51.6135+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 217
+    MBO_ORDER_ID_RT = "32353035333330393436"
+    MBO_TIME_RT = 2021-08-12T07:02:51.481+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.27000045776367
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 4000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:02:51.6135+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 218
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32353733343535313036"
+    MBO_ASK_SIZE_RT = 6000
+    MBO_TIME_RT = 2021-08-12T07:02:51.481+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:19:16.5411+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 219
+    MBO_ASK_POSITION_RT = 2
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32363638323335303130"
+    MBO_ASK_SIZE_RT = 2000
+    MBO_TIME_RT = 2021-08-12T07:19:16.411+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:25:24.3154+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 220
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32373031393136343138"
+    MBO_ASK_SIZE_RT = 100000
+    MBO_TIME_RT = 2021-08-12T07:25:24.185+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:25:24.3154+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 221
+    MBO_ORDER_ID_RT = "32323535313531313036"
+    MBO_TIME_RT = 2021-08-12T07:25:24.185+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 2000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:25:24.3154+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 222
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32373031393136343138"
+    MBO_ASK_SIZE_RT = 98000
+    MBO_TIME_RT = 2021-08-12T07:25:24.185+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:25:24.3164+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 223
+    MBO_ORDER_ID_RT = "32323639313637333632"
+    MBO_TIME_RT = 2021-08-12T07:25:24.185+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 4000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:25:24.3164+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 224
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32373031393136343138"
+    MBO_ASK_SIZE_RT = 94000
+    MBO_TIME_RT = 2021-08-12T07:25:24.185+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:25:24.3164+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 225
+    MBO_ORDER_ID_RT = "32333039313937333134"
+    MBO_TIME_RT = 2021-08-12T07:25:24.185+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 2000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:25:24.3164+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 226
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32373031393136343138"
+    MBO_ASK_SIZE_RT = 92000
+    MBO_TIME_RT = 2021-08-12T07:25:24.185+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:25:24.3164+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 227
+    MBO_ORDER_ID_RT = "32343030373435393836"
+    MBO_TIME_RT = 2021-08-12T07:25:24.185+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 10000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:25:24.3164+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 228
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32373031393136343138"
+    MBO_ASK_SIZE_RT = 82000
+    MBO_TIME_RT = 2021-08-12T07:25:24.185+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:25:24.3164+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 229
+    MBO_ORDER_ID_RT = "32353034363633303432"
+    MBO_TIME_RT = 2021-08-12T07:25:24.185+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 108000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:25:24.3173+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 230
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32373031393136343138"
+    MBO_ASK_SIZE_RT = 82000
+    MBO_TIME_RT = 2021-08-12T07:25:24.185+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:25:26.3683+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 231
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32373032303635343130"
+    MBO_ASK_SIZE_RT = 100000
+    MBO_TIME_RT = 2021-08-12T07:25:26.239+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:25:26.3683+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 232
+    MBO_ORDER_ID_RT = "32353034363633303432"
+    MBO_TIME_RT = 2021-08-12T07:25:26.239+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 8000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:25:26.3683+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 233
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32373032303635343130"
+    MBO_ASK_SIZE_RT = 100000
+    MBO_TIME_RT = 2021-08-12T07:25:26.239+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:25:26.3683+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 234
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32373032303635363636"
+    MBO_ASK_SIZE_RT = 6000
+    MBO_TIME_RT = 2021-08-12T07:25:26.240+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:25:26.3693+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 235
+    MBO_ASK_POSITION_RT = 4
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32373032303635393232"
+    MBO_ASK_SIZE_RT = 26000
+    MBO_TIME_RT = 2021-08-12T07:25:26.240+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:31:02.3974+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 236
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32353733343535313036"
+    MBO_ASK_SIZE_RT = 6000
+    MBO_TIME_RT = 2021-08-12T07:31:02.269+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:31:02.3974+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 237
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32373430333236313436"
+    MBO_ASK_SIZE_RT = 6000
+    MBO_TIME_RT = 2021-08-12T07:31:02.269+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:31:02.3974+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = MOD
+    MBO_SEQNUM_RT = 238
+    MBO_ORDER_ID_RT = "32353034363633303432"
+    MBO_TIME_RT = 2021-08-12T07:31:02.269+00:00
+    MBO_BID_POSITION_RT = 1
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 2000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:31:02.3974+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 239
+    MBO_ASK_POSITION_RT = 1
+    MBO_ASK_RT = 1.26000022888184
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32373430333236313436"
+    MBO_ASK_SIZE_RT = 6000
+    MBO_TIME_RT = 2021-08-12T07:31:02.269+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:36:19.1404+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 240
+    MBO_ORDER_ID_RT = "34383035333738202020"
+    MBO_TIME_RT = 2021-08-12T07:36:19.013+00:00
+    MBO_BID_POSITION_RT = 11
+    MBO_BID_RT = 1.19999980926514
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 20000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:42:42.8926+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 241
+    MBO_ORDER_ID_RT = "32383039353435343734"
+    MBO_TIME_RT = 2021-08-12T07:42:42.765+00:00
+    MBO_BID_POSITION_RT = 6
+    MBO_BID_RT = 1.25
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 50000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:42:48.1824+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 242
+    MBO_ORDER_ID_RT = "34353734373232202020"
+    MBO_TIME_RT = 2021-08-12T07:42:48.055+00:00
+    MBO_BID_POSITION_RT = 17
+    MBO_BID_RT = 1.14999961853027
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 16000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:50:01.7007+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 243
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32373032303635393232"
+    MBO_ASK_SIZE_RT = 26000
+    MBO_TIME_RT = 2021-08-12T07:50:01.574+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:50:01.7017+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 244
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32383433323730343032"
+    MBO_ASK_SIZE_RT = 84000
+    MBO_TIME_RT = 2021-08-12T07:50:01.574+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:50:01.7017+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 245
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32383433323730343032"
+    MBO_ASK_SIZE_RT = 84000
+    MBO_TIME_RT = 2021-08-12T07:50:01.575+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:50:01.7017+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 246
+    MBO_ASK_POSITION_RT = 4
+    MBO_ASK_RT = 1.27999973297119
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32383433323730393134"
+    MBO_ASK_SIZE_RT = 84000
+    MBO_TIME_RT = 2021-08-12T07:50:01.575+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:50:01.7017+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 247
+    MBO_ASK_POSITION_RT = 4
+    MBO_ASK_RT = 1.27999973297119
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32383433323730393134"
+    MBO_ASK_SIZE_RT = 84000
+    MBO_TIME_RT = 2021-08-12T07:50:01.575+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:50:01.7037+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 248
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32383433323731313730"
+    MBO_ASK_SIZE_RT = 84000
+    MBO_TIME_RT = 2021-08-12T07:50:01.575+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:50:46.7265+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 249
+    MBO_ORDER_ID_RT = "32383436373733373632"
+    MBO_TIME_RT = 2021-08-12T07:50:46.600+00:00
+    MBO_BID_POSITION_RT = 2
+    MBO_BID_RT = 1.26000022888184
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 40000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:57:00.6708+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 250
+    MBO_ORDER_ID_RT = "32383736383435333134"
+    MBO_TIME_RT = 2021-08-12T07:57:00.544+00:00
+    MBO_BID_POSITION_RT = 9
+    MBO_BID_RT = 1.23999977111816
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 4000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:57:00.6718+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 251
+    MBO_ASK_POSITION_RT = 5
+    MBO_ASK_RT = 1.28999996185303
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32383736383435353730"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T07:57:00.544+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:57:39.1576+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 252
+    MBO_ORDER_ID_RT = "32383831313339343538"
+    MBO_TIME_RT = 2021-08-12T07:57:39.030+00:00
+    MBO_BID_POSITION_RT = 12
+    MBO_BID_RT = 1.23000049591064
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 4000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:57:39.1576+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 253
+    MBO_ASK_POSITION_RT = 9
+    MBO_ASK_RT = 1.30000019073486
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32383831313339373134"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T07:57:39.030+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:58:10.1954+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = BID
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 254
+    MBO_ORDER_ID_RT = "32383833343936373036"
+    MBO_TIME_RT = 2021-08-12T07:58:10.068+00:00
+    MBO_BID_POSITION_RT = 14
+    MBO_BID_RT = 1.22000026702881
+    MBO_BID_COND_CODE_RT = ""
+    MBO_BID_SIZE_RT = 4000
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:58:10.2961+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = ADD
+    MBO_SEQNUM_RT = 255
+    MBO_ASK_POSITION_RT = 10
+    MBO_ASK_RT = 1.3100004196167
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32383833353139343930"
+    MBO_ASK_SIZE_RT = 4000
+    MBO_TIME_RT = 2021-08-12T07:58:10.169+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 15:59:34.1316+08:00 - [API received time: 01-01-0001 08:00:00.0000+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+MarketDepthUpdates = {
+    MKTDEPTH_EVENT_TYPE = MARKET_BY_ORDER
+    MKTDEPTH_EVENT_SUBTYPE = ASK
+    EID = 53714
+    MD_TABLE_CMD_RT = DEL
+    MBO_SEQNUM_RT = 256
+    MBO_ASK_POSITION_RT = 3
+    MBO_ASK_RT = 1.27000045776367
+    MBO_ASK_COND_CODE_RT = ""
+    MBO_ORDER_ID_RT = "32383433323731313730"
+    MBO_ASK_SIZE_RT = 84000
+    MBO_TIME_RT = 2021-08-12T07:59:34.004+00:00
+    MBL_TABLE_ASK[] = {
+    }
+    MBL_TABLE_BID[] = {
+    }
+    MBO_TABLE_ASK[] = {
+    }
+    MBO_TABLE_BID[] = {
+    }
+}
+
+08-12-2021 16:23:11.8336+08:00 - [API received time: 08-12-2021 16:23:11.8306+08:00] //blp/mktdepthdata/ticker/2660 HK Equity?type=MBO: (Fragment Type: NONE)
+SubscriptionTerminated = {
+    reason = {
+        source = "SubscriptionManager"
+        errorCode = 0
+        category = "CANCELED"
+        description = "Subscription canceled"
+        subcategory = ""
+    }
+}
+

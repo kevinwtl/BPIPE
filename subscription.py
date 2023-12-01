@@ -21,7 +21,7 @@ class BPIPE:
         self.options.setSessionIdentityOptions(AuthOptions.createWithApp("CHINASILVER:Trading"))
 
         # TLS key files for connecting to ZFP endpoint
-        self.options.setTlsOptions(TlsOptions.createFromFiles(r"T:\Intern Folder\External Research\2023 Interns\BPIPE\certificates\65C7B614CC7BF90D81CDE1363A617D85.pk12", "123456", r"T:\Intern Folder\External Research\2023 Interns\BPIPE\certificates\rootCertificate.pk7"))
+        self.options.setTlsOptions(TlsOptions.createFromFiles(r"H:\GitHub\BPIPE\certificates\65C7B614CC7BF90D81CDE1363A617D85.pk12", "123456", r"H:\GitHub\BPIPE\certificates\rootCertificate.pk7"))
 
         self.options.setAutoRestartOnDisconnection(True)
         print(self.options)
@@ -66,7 +66,7 @@ class BPIPE:
 
 if __name__ == "__main__":
     try:
-        BPIPE(["2060 HK Equity", "3633 HK Equity", "3683 HK Equity", "3738 HK Equity", "959 HK Equity", "970 HK Equity"]).subscribe()
+        BPIPE(["2060 HK Equity", "3633 HK Equity", "3683 HK Equity", "3738 HK Equity", "959 HK Equity", "970 HK Equity", "6698 HK Equity", "2415 HK Equity"]).subscribe()
     except:
         traceback.print_exc()
     input()  # to suspend the program
